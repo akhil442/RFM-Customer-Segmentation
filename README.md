@@ -68,7 +68,7 @@ This query assigns customers into business segments (Champions, Loyal VIPs, At R
 The final dataset is connected to Power BI to visualize customer segments, key KPIs, and detailed customer insights.
 
 📸 Dashboard:
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dahsboard.png)
 
 ---
 
@@ -78,12 +78,6 @@ The final dataset is connected to Power BI to visualize customer segments, key K
 * Detected at-risk customers for retention strategies
 * Enabled segmentation-based marketing decisions
 * Provided a clear view of customer distribution across segments
-
----
-
-## 📚 Credits
-
-https://www.youtube.com/watch?v=m13o5aqeCbM&t=1659s
 
 ---
 
